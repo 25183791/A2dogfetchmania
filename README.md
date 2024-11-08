@@ -11,8 +11,3 @@ https://arcade.makecode.com/reference/sprites/sprite/change-scale
 https://arcade.makecode.com/developer/sound
 https://arcade.makecode.com/reference/info/set-life
 https://arcade.makecode.com/courses/csintro1/motion/sprite-motion-event
-
-
-
-> Open this page at [https://25183791.github.io/a2dogfetchmania/](https://25183791.github.io/a2dogfetchmania/)
-
