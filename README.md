@@ -1,4 +1,5 @@
- 
+Project Details: Dog Fetch Mania
+To play the game press A on makecode arcade and use the arrowkeys on your keyboard to move the dog around to collect the tennis balls and dodge the enemy cats. 
 
 
 > Open this page at [https://25183791.github.io/a2dogfetchmania/](https://25183791.github.io/a2dogfetchmania/)
